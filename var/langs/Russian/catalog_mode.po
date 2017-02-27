@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-Language: ru\n"
 "X-Crowdin-File: /master/var/langs/en/addons/catalog_mode.po\n"
 "Last-Translator: incrize7 <tall-007@inbox.ru>\n"
-"PO-Revision-Date: 2017-02-27 06:58-0500\n"
+"PO-Revision-Date: 2017-02-27 07:05-0500\n"
 
 msgctxt "Addons::name::catalog_mode"
 msgid "Catalog mode"
