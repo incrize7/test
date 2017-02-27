@@ -10,35 +10,35 @@ msgstr ""
 "X-Crowdin-Language: ru\n"
 "X-Crowdin-File: /master/var/langs/en/addons/banners.po\n"
 "Last-Translator: incrize7 <tall-007@inbox.ru>\n"
-"PO-Revision-Date: 2017-02-27 06:59-0500\n"
+"PO-Revision-Date: 2017-02-27 07:06-0500\n"
 
 msgctxt "Addons::name::banners"
 msgid "Banners management"
-msgstr ""
+msgstr "Управление баннерами"
 
 msgctxt "Addons::description::banners"
 msgid "Allows you to create text and visual banners"
-msgstr ""
+msgstr "Позволяет создавать текст и визуальные баннеры"
 
 msgctxt "Languages::banners.new_banner"
 msgid "New banner"
-msgstr ""
+msgstr "Новый баннер"
 
 msgctxt "Languages::banners.editing_banner"
 msgid "Editing banner"
-msgstr ""
+msgstr "Редактирования баннера"
 
 msgctxt "Languages::add_banner"
 msgid "Add banner"
-msgstr ""
+msgstr "Добавить баннер"
 
 msgctxt "Languages::banner"
 msgid "Banner"
-msgstr ""
+msgstr "Баннер"
 
 msgctxt "Languages::banners"
 msgid "Banners"
-msgstr ""
+msgstr "Баннеры"
 
 msgctxt "Languages::banners_menu_description"
 msgid "Create graphic and text banners that can then be placed on the storefront."
