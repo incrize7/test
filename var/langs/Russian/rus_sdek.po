@@ -1,0 +1,193 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: incrizetest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: incrizetest\n"
+"X-Crowdin-Language: ru\n"
+"X-Crowdin-File: /master/var/langs/en/addons/rus_sdek.po\n"
+"Last-Translator: incrize7 <tall-007@inbox.ru>\n"
+"PO-Revision-Date: 2017-02-27 06:57-0500\n"
+
+msgctxt "Addons::name::rus_sdek"
+msgid "Russian localization — shipping service SDEK ( cdek.ru )"
+msgstr ""
+
+msgctxt "Addons::description::rus_sdek"
+msgid "Shipping service SDEK"
+msgstr ""
+
+msgctxt "Languages::shippings_sdek.header_shipping_office"
+msgid "Shipping service office:"
+msgstr ""
+
+msgctxt "Languages::shippings_sdek.header_shipping_office_map"
+msgid "Shipping service office on map:"
+msgstr ""
+
+msgctxt "Languages::shippings.sdek.city_error"
+msgid "Invalid city entered"
+msgstr ""
+
+msgctxt "Languages::shipping.sdek.get_city_data"
+msgid "Get city ID"
+msgstr ""
+
+msgctxt "Languages::shipping.sdek.get_city_data.tooltip"
+msgid "A request to get the city ID will be sent to SDEK"
+msgstr ""
+
+msgctxt "Languages::shipping.sdek.city_id.tooltip"
+msgid "Technical info necessary for the shipping cost calculator. To get the ID, enter the city name in the City from field and click the Get city ID link. Save the received settings."
+msgstr ""
+
+msgctxt "Languages::sdek_tariff_sklad"
+msgid "Stock-Stock"
+msgstr ""
+
+msgctxt "Languages::sdek_tariff_dver"
+msgid "Stock-Door"
+msgstr ""
+
+msgctxt "Languages::shippings.sdek.lang_error"
+msgid "Switch language to Russian"
+msgstr ""
+
+msgctxt "Languages::shippings_sdek.authlogin"
+msgid "Access login to calculations server"
+msgstr ""
+
+msgctxt "Languages::shippings_sdek.authpassword"
+msgid "Password login to calculations server"
+msgstr ""
+
+msgctxt "Languages::shippings.sdek.dateexecute"
+msgid "The number of days in which the order is planned to be shipped"
+msgstr ""
+
+msgctxt "Languages::shippings.sdek.sendercityid"
+msgid "Sender city name. Start entering the city name, then select the needed one from the options suggested"
+msgstr ""
+
+msgctxt "Languages::shippings.sdek.sendercitypostcode"
+msgid "Zip code of the sender city. (Not required if the sender city is selected)"
+msgstr ""
+
+msgctxt "Languages::shippings.sdek.tariffid"
+msgid "Selecting available plans. The higher a plan is in the list, the higher its priority is"
+msgstr ""
+
+msgctxt "Languages::shipping.sdek.city_id"
+msgid "City ID"
+msgstr ""
+
+msgctxt "Languages::shippings.sdek.activation_error"
+msgid "To activate the SDEK shipping processor, the Russian rouble currency (RUB) must be active and defined as base."
+msgstr ""
+
+msgctxt "Languages::shippings.sdek.country_error"
+msgid "The SDEK shipping method is available for the Russian Federation only. You can change settings of countries (Settings -> Company)."
+msgstr ""
+
+msgctxt "Languages::shippings.sdek.code_error"
+msgid "There is a mistake in the city zip code. Please check the correctness of the data entered"
+msgstr ""
+
+msgctxt "Languages::shippings.sdek.sender_code_error"
+msgid "There is a mistake in the sender city. Please check the correctness of the data entered"
+msgstr ""
+
+msgctxt "Languages::shippings.sdek.account_password_error"
+msgid "Add name account and password in addon SDEK"
+msgstr ""
+
+msgctxt "Languages::shippings.sdek.sdek_orders"
+msgid "Orders for delivery SDEK"
+msgstr ""
+
+msgctxt "Languages::sdek.sdek_tariff"
+msgid "Tariff SDEK"
+msgstr ""
+
+msgctxt "Languages::sdek.update_status"
+msgid "Update status"
+msgstr ""
+
+msgctxt "Languages::shippings.sdek.status_title"
+msgid "Order status SDEK"
+msgstr ""
+
+msgctxt "Languages::sdek.lang_city"
+msgid "City spent parcels"
+msgstr ""
+
+msgctxt "Languages::sdek.receipt_order"
+msgid "Print ticket"
+msgstr ""
+
+msgctxt "Languages::shippings.sdek.sdek_menu"
+msgid "SDEK"
+msgstr ""
+
+msgctxt "Languages::carrier_sdek"
+msgid "SDEK"
+msgstr ""
+
+msgctxt "Languages::sdek.new_schedule"
+msgid "New schedule"
+msgstr ""
+
+msgctxt "Languages::sdek.date_delivery"
+msgid "Date of delivery"
+msgstr ""
+
+msgctxt "Languages::sdek.time"
+msgid "Starting/closing time delivery recipient"
+msgstr ""
+
+msgctxt "Languages::sdek.delivery_recipient_cost"
+msgid "Additional cost of delivery recipient"
+msgstr ""
+
+msgctxt "Languages::sdek.street"
+msgid "Street"
+msgstr ""
+
+msgctxt "Languages::sdek.house"
+msgid "House"
+msgstr ""
+
+msgctxt "Languages::sdek.flat"
+msgid "Flat"
+msgstr ""
+
+msgctxt "Languages::sdek.call_courier"
+msgid "Call courier"
+msgstr ""
+
+msgctxt "Languages::sdek.time_courier"
+msgid "Starting/closing time expectations courier"
+msgstr ""
+
+msgctxt "Languages::sdek.time_lunch"
+msgid "Starting/closing time lunch"
+msgstr ""
+
+msgctxt "Languages::sdek.cash_on_delivery"
+msgid "Cash on delivery"
+msgstr ""
+
+msgctxt "Languages::sdek_tariff_dver_sklad"
+msgid "Door-Stock"
+msgstr ""
+
+msgctxt "Languages::sdek_tariff_dver_dver"
+msgid "Door-Door"
+msgstr ""
+
+msgctxt "Languages::sdek.sdek_address_shipping"
+msgid "Address shipping"
+msgstr ""
