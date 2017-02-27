@@ -10,15 +10,15 @@ msgstr ""
 "X-Crowdin-Language: ru\n"
 "X-Crowdin-File: /master/var/langs/en/addons/barcode.po\n"
 "Last-Translator: incrize7 <tall-007@inbox.ru>\n"
-"PO-Revision-Date: 2017-02-27 07:06-0500\n"
+"PO-Revision-Date: 2017-02-27 07:14-0500\n"
 
 msgctxt "Addons::name::barcode"
 msgid "Order barcode"
-msgstr ""
+msgstr "Штрих-код заказа"
 
 msgctxt "Addons::description::barcode"
 msgid "Makes it possible to configure and attach barcodes to orders"
-msgstr ""
+msgstr "Позволяет настроить и прикрепить штрих к заказам"
 
 msgctxt "Languages::please_enable_the_add_on_to_see_barcode"
 msgid "Please enable the add-on to see a code example."
