@@ -10,7 +10,7 @@ msgstr ""
 "X-Crowdin-Language: ru\n"
 "X-Crowdin-File: /master/var/langs/en/addons/payment_dependencies.po\n"
 "Last-Translator: incrize7 <tall-007@inbox.ru>\n"
-"PO-Revision-Date: 2017-02-27 06:59-0500\n"
+"PO-Revision-Date: 2017-02-27 07:06-0500\n"
 
 msgctxt "Addons::name::payment_dependencies"
 msgid "Payment dependencies"
