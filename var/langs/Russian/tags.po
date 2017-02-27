@@ -1,0 +1,73 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: incrizetest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: incrizetest\n"
+"X-Crowdin-Language: ru\n"
+"X-Crowdin-File: /master/var/langs/en/addons/tags.po\n"
+"Last-Translator: incrize7 <tall-007@inbox.ru>\n"
+"PO-Revision-Date: 2017-02-27 06:58-0500\n"
+
+msgctxt "Addons::name::tags"
+msgid "Tags"
+msgstr ""
+
+msgctxt "Addons::description::tags"
+msgid "Enables product tags"
+msgstr ""
+
+msgctxt "Languages::tags_menu_description"
+msgid "Manage product and content page tags."
+msgstr ""
+
+msgctxt "Languages::sign_in_to_enter_tags"
+msgid "Sign in to enter tags"
+msgstr ""
+
+msgctxt "Languages::tag_cloud"
+msgid "Tag cloud"
+msgstr ""
+
+msgctxt "Languages::tags"
+msgid "Tags"
+msgstr ""
+
+msgctxt "Languages::block_tags"
+msgid "Tags"
+msgstr ""
+
+msgctxt "Languages::block_tags_description"
+msgid "Product tags"
+msgstr ""
+
+msgctxt "Languages::addons.tags.add_a_tag"
+msgid "add a tag"
+msgstr ""
+
+msgctxt "Languages::items_marked_by_tag"
+msgid "Items marked by the \"[tag]\" tag:"
+msgstr ""
+
+msgctxt "Languages::tag"
+msgid "Tag"
+msgstr ""
+
+msgctxt "Languages::add_tag"
+msgid "Add tag"
+msgstr ""
+
+msgctxt "SettingsSections::tags::general"
+msgid "General"
+msgstr ""
+
+msgctxt "SettingsOptions::tags::tags_for_products"
+msgid "Tags for products"
+msgstr ""
+
+msgctxt "SettingsOptions::tags::tags_for_pages"
+msgid "Tags for pages"
+msgstr ""
