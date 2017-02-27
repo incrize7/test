@@ -1,0 +1,253 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: incrizetest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: incrizetest\n"
+"X-Crowdin-Language: ru\n"
+"X-Crowdin-File: /master/var/langs/en/addons/rus_tovary_mailru.po\n"
+"Last-Translator: incrize7 <tall-007@inbox.ru>\n"
+"PO-Revision-Date: 2017-02-27 07:05-0500\n"
+
+msgctxt "Addons::name::rus_tovary_mailru"
+msgid "Russian localization — torg.mail.ru export"
+msgstr ""
+
+msgctxt "Addons::description::rus_tovary_mailru"
+msgid "Export products to the torg.mail.ru catalog"
+msgstr ""
+
+msgctxt "Languages::mailru_export_unsuccessfull"
+msgid "The following products were not exported because of zero price:"
+msgstr ""
+
+msgctxt "Languages::mailru_vendor_not_specified"
+msgid "Vendor not specified"
+msgstr ""
+
+msgctxt "Languages::mailru_export_export_true"
+msgid "<br/><b>Exported in Mail.ru: [count] products</b><br/>"
+msgstr ""
+
+msgctxt "Languages::mailru_export_error_cron_key"
+msgid "Export in Mail.ru failed: Wrong key"
+msgstr ""
+
+msgctxt "Languages::mailru_export_error_cron"
+msgid "Export in Mail.ru resulted in an error"
+msgstr ""
+
+msgctxt "Languages::mailru_export_auto_info_header"
+msgid "It is necessary to select a storefront and save the settings for the export store."
+msgstr ""
+
+msgctxt "Languages::mailru_export_auto_info"
+msgid "Use the following URL for automatic export:"
+msgstr ""
+
+msgctxt "Languages::mailru_export_auto_info_end"
+msgid "The \"switch_company_id\" option is responsible for selecting the export sotrefront. If \"switch_company_id=0\", products of all the storefronts will be exported."
+msgstr ""
+
+msgctxt "Languages::mailru_export_auto_info_bottom"
+msgid "For exporting products from various storefronts it is required to use various file names."
+msgstr ""
+
+msgctxt "Languages::mailru_export_auto_info_file"
+msgid "The file will be saved to the directory:"
+msgstr ""
+
+msgctxt "Languages::mailru_export_unsuccessfull_out_of_stock"
+msgid "The following products were not exported because the products are out of stock:"
+msgstr ""
+
+msgctxt "Languages::mailru_export_unsuccessfull_empty_brand"
+msgid "The following products were not exported because the \"Brand\" field is empty:"
+msgstr ""
+
+msgctxt "Languages::mailru_export_unsuccessfull_empty_model"
+msgid "The following products were not exported because the \"Model\" field is empty:"
+msgstr ""
+
+msgctxt "Languages::mailru_export_unsuccessfull_disable_cat_list"
+msgid "The following products were not exported because of the excluded category:"
+msgstr ""
+
+msgctxt "Languages::mailru_export_unsuccessfull_disable_cat_list_d"
+msgid "The following products were not exported because of the disabled category:"
+msgstr ""
+
+msgctxt "Languages::mailru_export_unsuccessfull_products_zero_price"
+msgid "The following products were not exported because of zero price:"
+msgstr ""
+
+msgctxt "Languages::mailru_export_unsuccessfull_disabled_products"
+msgid "The following products were not exported because they are disabled:"
+msgstr ""
+
+msgctxt "Languages::mailru"
+msgid "Tovary@Mail.Ru"
+msgstr ""
+
+msgctxt "Languages::mailru_brand"
+msgid "TM Brand"
+msgstr ""
+
+msgctxt "Languages::mailru_model"
+msgid "TM Model"
+msgstr ""
+
+msgctxt "Languages::mailru_type_prefix"
+msgid "TM Product group/category (typePrefix)"
+msgstr ""
+
+msgctxt "Languages::mailru_cost"
+msgid "TM Allow local delivery cost"
+msgstr ""
+
+msgctxt "Languages::mailru_delivery"
+msgid "TM Allow delivery"
+msgstr ""
+
+msgctxt "Languages::mailru_pickup"
+msgid "TM Allow booking and self delivery"
+msgstr ""
+
+msgctxt "Languages::mailru_products_filename"
+msgid "mailru_products"
+msgstr ""
+
+msgctxt "Languages::mailru_mcp"
+msgid "TM The maximum cost per click in rubles"
+msgstr ""
+
+msgctxt "Languages::mailru_export"
+msgid "TM Export product to Tovary@Mail.Ru"
+msgstr ""
+
+msgctxt "Languages::mailru_true"
+msgid "Yes"
+msgstr ""
+
+msgctxt "Languages::mailru_false"
+msgid "No"
+msgstr ""
+
+msgctxt "SettingsSections::rus_tovary_mailru::general"
+msgid "General settings"
+msgstr ""
+
+msgctxt "SettingsOptions::rus_tovary_mailru::shop_name"
+msgid "Shop name"
+msgstr ""
+
+msgctxt "SettingsOptions::rus_tovary_mailru::export_stock"
+msgid "Export only products in stock"
+msgstr ""
+
+msgctxt "SettingsTooltips::rus_tovary_mailru::export_stock"
+msgid "If products quantity is equal or less than 0, these products will be excluded from export."
+msgstr ""
+
+msgctxt "SettingsOptions::rus_tovary_mailru::notify_disable_products"
+msgid "Enable notifications about reasons for excluding products from export."
+msgstr ""
+
+msgctxt "SettingsOptions::rus_tovary_mailru::disable_cat_d"
+msgid "Exclude disabled categories."
+msgstr ""
+
+msgctxt "SettingsTooltips::rus_tovary_mailru::disable_cat_d"
+msgid "Only products of active and hidden categories will be exported."
+msgstr ""
+
+msgctxt "SettingsOptions::rus_tovary_mailru::mail_settings"
+msgid "Product name used in the price list:"
+msgstr ""
+
+msgctxt "SettingsTooltips::rus_tovary_mailru::mail_settings"
+msgid "The fields used to form product name in the price list. The product name is formed according to the following formula: \"typePrefix\" + \"brand\" + \"model\" or \"name\" depending on the name type selected."
+msgstr ""
+
+msgctxt "SettingsVariants::rus_tovary_mailru::mail_settings::type_name"
+msgid "Product name"
+msgstr ""
+
+msgctxt "SettingsVariants::rus_tovary_mailru::mail_settings::type_detailed"
+msgid "Product type+Manufacturer+Model"
+msgstr ""
+
+msgctxt "SettingsOptions::rus_tovary_mailru::feature_for_brand"
+msgid "Names of features to use in the \"vendor\" field"
+msgstr ""
+
+msgctxt "SettingsTooltips::rus_tovary_mailru::feature_for_brand"
+msgid "Select the name of the feature which value will be used for the \"vendor\" field. Only the feature of the \"Brand/Manufacturer\" type can be used"
+msgstr ""
+
+msgctxt "SettingsOptions::rus_tovary_mailru::type_prefix"
+msgid "Use the \"typePrefix\" field"
+msgstr ""
+
+msgctxt "SettingsTooltips::rus_tovary_mailru::type_prefix"
+msgid "Product name is formed according to the following formula: \"typePrefix\" + \"vendor\" + \"model\" . If no value is specified for the \"typePrefix\" field, the category name will be used."
+msgstr ""
+
+msgctxt "SettingsOptions::rus_tovary_mailru::local_delivery_cost"
+msgid "Use the \"TM Shipping cost in the home region\" field"
+msgstr ""
+
+msgctxt "SettingsTooltips::rus_tovary_mailru::local_delivery_cost"
+msgid "Used to display the shipping field for products in the home region."
+msgstr ""
+
+msgctxt "SettingsOptions::rus_tovary_mailru::delivery_type"
+msgid "Zero shipping value of the \"TM Shipping cost in the home region\" field"
+msgstr ""
+
+msgctxt "SettingsTooltips::rus_tovary_mailru::delivery_type"
+msgid "If the shipping value equals 0, a parameter of displaying this value can be set: display zero value, display the Free shipping value or do not display the value"
+msgstr ""
+
+msgctxt "SettingsVariants::rus_tovary_mailru::delivery_type::value"
+msgid "Shipping cost"
+msgstr ""
+
+msgctxt "SettingsVariants::rus_tovary_mailru::delivery_type::free"
+msgid "Free shipping"
+msgstr ""
+
+msgctxt "SettingsVariants::rus_tovary_mailru::delivery_type::no_delivery"
+msgid "Do not display"
+msgstr ""
+
+msgctxt "SettingsOptions::rus_tovary_mailru::export_encoding"
+msgid "Encoding of the exported file"
+msgstr ""
+
+msgctxt "SettingsVariants::rus_tovary_mailru::export_encoding::utf-8"
+msgid "utf8"
+msgstr ""
+
+msgctxt "SettingsVariants::rus_tovary_mailru::export_encoding::windows-1251"
+msgid "windows-1251"
+msgstr ""
+
+msgctxt "SettingsSections::rus_tovary_mailru::auto_settings"
+msgid "Automatic export"
+msgstr ""
+
+msgctxt "SettingsOptions::rus_tovary_mailru::cron_key"
+msgid "Access key for automatic export ([cron_key])"
+msgstr ""
+
+msgctxt "SettingsOptions::rus_tovary_mailru::cron_filename"
+msgid "File name for automatic export (the file will be saved to the /var/exim/ directory)"
+msgstr ""
+
+msgctxt "SettingsOptions::rus_tovary_mailru::auto_url"
+msgid "URL for automatic update"
+msgstr ""

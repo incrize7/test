@@ -1,0 +1,77 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: incrizetest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: incrizetest\n"
+"X-Crowdin-Language: ru\n"
+"X-Crowdin-File: /master/var/langs/en/addons/rus_edost.po\n"
+"Last-Translator: incrize7 <tall-007@inbox.ru>\n"
+"PO-Revision-Date: 2017-02-27 07:05-0500\n"
+
+msgctxt "Addons::name::rus_edost"
+msgid "Russian localization — Payment on delivery ( eDost.ru )"
+msgstr ""
+
+msgctxt "Addons::description::rus_edost"
+msgid "Shipping services: Russian Post, EMS, DHL, UPS, SPSR Express, Pony Express, Garantpost, Megapolis, CDEK, Delovye linii, Avtotrejding, PEK, Zheldorekspeditsiya, boxberry, Energy"
+msgstr ""
+
+msgctxt "Languages::server_password"
+msgid "Access password to calculations server"
+msgstr ""
+
+msgctxt "Languages::edost.header.office_map"
+msgid "Office on the map"
+msgstr ""
+
+msgctxt "Languages::edost.header.shipping_office"
+msgid "Office delivery service:"
+msgstr ""
+
+msgctxt "Languages::carrier_edost"
+msgid "eDost"
+msgstr ""
+
+msgctxt "Languages::edost_activation_error"
+msgid "To activate the eDost shipping processor, the Russian rouble currency (RUB) must be active and defined as base."
+msgstr ""
+
+msgctxt "Languages::edost_warning"
+msgid "Warning"
+msgstr ""
+
+msgctxt "Languages::edost_warning1"
+msgid "A post office with the zip code defined DOES NOT exist. Postal delivery is IMPOSSIBLE without correct zip code."
+msgstr ""
+
+msgctxt "Languages::edost_warning2"
+msgid "NO post office with the zip code defined has been found in your state. Postal delivery is IMPOSSIBLE without correct zip code."
+msgstr ""
+
+msgctxt "Languages::edost_country_error"
+msgid "The eDost shipping method is available for the Russian Federation only. You can change settings of countries (Settings -> Company)."
+msgstr ""
+
+msgctxt "Languages::edost_code_error"
+msgid "Product cannot be shipped to the defined address by the eDost shipping method."
+msgstr ""
+
+msgctxt "Languages::edostcod_naloz_plus"
+msgid "Shipping cost will increase by"
+msgstr ""
+
+msgctxt "Languages::edostcod_naloz_transfer"
+msgid "+ pay surcharge on delivery for money transfer:"
+msgstr ""
+
+msgctxt "Languages::edostcod_naloz_total"
+msgid "Total surcharge paid for payment on delivery:"
+msgstr ""
+
+msgctxt "Languages::store_id"
+msgid "Store ID"
+msgstr ""

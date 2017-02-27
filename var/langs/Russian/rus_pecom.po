@@ -1,0 +1,129 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: incrizetest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: incrizetest\n"
+"X-Crowdin-Language: ru\n"
+"X-Crowdin-File: /master/var/langs/en/addons/rus_pecom.po\n"
+"Last-Translator: incrize7 <tall-007@inbox.ru>\n"
+"PO-Revision-Date: 2017-02-27 07:04-0500\n"
+
+msgctxt "Addons::name::rus_pecom"
+msgid "PEC (PECOM)"
+msgstr ""
+
+msgctxt "Addons::description::rus_pecom"
+msgid "Shipping calculator"
+msgstr ""
+
+msgctxt "Languages::carrier_pecom"
+msgid "PEC (PECOM) carrier"
+msgstr ""
+
+msgctxt "Languages::rus_pecom.order_info"
+msgid "Information from PEC"
+msgstr ""
+
+msgctxt "Languages::rus_pecom.not_city_code"
+msgid "City code not found"
+msgstr ""
+
+msgctxt "Languages::rus_pecom.tarif"
+msgid "Rate"
+msgstr ""
+
+msgctxt "Languages::rus_pecom.auto"
+msgid "Shipment by car"
+msgstr ""
+
+msgctxt "Languages::rus_pecom.avia"
+msgid "Shipment by air"
+msgstr ""
+
+msgctxt "Languages::rus_pecom.take"
+msgid "Include pickup cost"
+msgstr ""
+
+msgctxt "Languages::rus_pecom.deliver"
+msgid "Include delivery cost"
+msgstr ""
+
+msgctxt "Languages::rus_pecom.insurance"
+msgid "Insurance"
+msgstr ""
+
+msgctxt "Languages::rus_pecom.pal"
+msgid "Palletizing required"
+msgstr ""
+
+msgctxt "Languages::rus_pecom.take.tent"
+msgid "Truck tarp removal upon pickup (excluding cities of Russia's Golden Ring)"
+msgstr ""
+
+msgctxt "Languages::rus_pecom.take.gidro"
+msgid "Usage of tail lift or other special machinery upon pickup"
+msgstr ""
+
+msgctxt "Languages::rus_pecom.take.speed"
+msgid "Urgent pickup (Moscow only)"
+msgstr ""
+
+msgctxt "Languages::rus_pecom.take.moscow"
+msgid "Pickup within Moscow"
+msgstr ""
+
+msgctxt "Languages::rus_pecom.deliver.tent"
+msgid "Truck tarp removal upon delivery (excluding cities of Russia's Golden Ring)"
+msgstr ""
+
+msgctxt "Languages::rus_pecom.deliver.gidro"
+msgid "Usage of tail lift or other special vehicles upon delivery"
+msgstr ""
+
+msgctxt "Languages::rus_pecom.deliver.speed"
+msgid "Urgent delivery (Moscow only)"
+msgstr ""
+
+msgctxt "Languages::rus_pecom.deliver.moscow"
+msgid "Delivery within Moscow"
+msgstr ""
+
+msgctxt "Languages::rus_pecom.moscow.deliver"
+msgid "Delivery within Moscow"
+msgstr ""
+
+msgctxt "Languages::rus_pecom.moscow.0"
+msgid "No entry"
+msgstr ""
+
+msgctxt "Languages::rus_pecom.moscow.1"
+msgid "Moscow Ring Railway"
+msgstr ""
+
+msgctxt "Languages::rus_pecom.moscow.2"
+msgid "Third Ring Road"
+msgstr ""
+
+msgctxt "Languages::rus_pecom.moscow.3"
+msgid "Garden Ring Road"
+msgstr ""
+
+msgctxt "Languages::rus_pecom.ttl_gidro"
+msgid "Freight weight must not exceed 3000 kg, maximum dimension is 3 meters"
+msgstr ""
+
+msgctxt "Languages::rus_pecom.ttl_tent"
+msgid "Tarp that covers the truck can be removed to get easier access to freight area. The truck may be equipped with straps, tail lift, rigid boards (sides), etc. Tarp removal eases freight loading and usually side or upper parts of tarp are removed. If the whole tarp is removed, the freight can be loaded both from above and from sides."
+msgstr ""
+
+msgctxt "Languages::rus_pecom.package_hard"
+msgid "Rigid packaging required"
+msgstr ""
+
+msgctxt "Languages::rus_pecom.not_rate_delivery"
+msgid "Failed to calculate shipping"
+msgstr ""

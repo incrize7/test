@@ -1,0 +1,89 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: incrizetest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: incrizetest\n"
+"X-Crowdin-Language: ru\n"
+"X-Crowdin-File: /master/var/langs/en/addons/form_builder.po\n"
+"Last-Translator: incrize7 <tall-007@inbox.ru>\n"
+"PO-Revision-Date: 2017-02-27 07:06-0500\n"
+
+msgctxt "Addons::name::form_builder"
+msgid "Form builder"
+msgstr ""
+
+msgctxt "Addons::description::form_builder"
+msgid "Lets you create custom forms (e.g. Contact us)"
+msgstr ""
+
+msgctxt "Languages::use_for_form_builder"
+msgid "Custom forms"
+msgstr ""
+
+msgctxt "Languages::new_form"
+msgid "New form"
+msgstr ""
+
+msgctxt "Languages::editing_form"
+msgid "Editing form"
+msgstr ""
+
+msgctxt "Languages::form_builder"
+msgid "Form builder"
+msgstr ""
+
+msgctxt "Languages::form_submit_text"
+msgid "Form submit text"
+msgstr ""
+
+msgctxt "Languages::email_to"
+msgid "E-mail to"
+msgstr ""
+
+msgctxt "Languages::form_is_secure"
+msgid "Form is secure (SSL)"
+msgstr ""
+
+msgctxt "Languages::add_form"
+msgid "Add form"
+msgstr ""
+
+msgctxt "Languages::base"
+msgid "Base"
+msgstr ""
+
+msgctxt "Languages::multiple_checkboxes"
+msgid "Multiple checkboxes"
+msgstr ""
+
+msgctxt "Languages::multiple_selectbox"
+msgid "Multiple selectbox"
+msgstr ""
+
+msgctxt "Languages::header"
+msgid "Header"
+msgstr ""
+
+msgctxt "Languages::separator"
+msgid "Separator"
+msgstr ""
+
+msgctxt "Languages::special"
+msgid "Special"
+msgstr ""
+
+msgctxt "Languages::countries_list"
+msgid "Countries list"
+msgstr ""
+
+msgctxt "Languages::states_list"
+msgid "States list"
+msgstr ""
+
+msgctxt "Languages::referer"
+msgid "Referer"
+msgstr ""

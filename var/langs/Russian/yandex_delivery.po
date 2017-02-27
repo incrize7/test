@@ -1,0 +1,129 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: incrizetest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: incrizetest\n"
+"X-Crowdin-Language: ru\n"
+"X-Crowdin-File: /master/var/langs/en/addons/yandex_delivery.po\n"
+"Last-Translator: incrize7 <tall-007@inbox.ru>\n"
+"PO-Revision-Date: 2017-02-27 07:05-0500\n"
+
+msgctxt "Addons::name::yandex_delivery"
+msgid "Yandex.Delivery"
+msgstr ""
+
+msgctxt "Addons::description::yandex_delivery"
+msgid "Yandex delivery service"
+msgstr ""
+
+msgctxt "SettingsSections::yandex_delivery::general"
+msgid "General"
+msgstr ""
+
+msgctxt "SettingsOptions::yandex_delivery::autocomplete"
+msgid "Autocomplete cities and street"
+msgstr ""
+
+msgctxt "SettingsOptions::yandex_delivery::autopostcode"
+msgid "Autocomplete postcode"
+msgstr ""
+
+msgctxt "SettingsOptions::yandex_delivery::api_keys"
+msgid "API keys"
+msgstr ""
+
+msgctxt "SettingsOptions::yandex_delivery::client_ids"
+msgid "Client ids"
+msgstr ""
+
+msgctxt "Languages::yandex_delivery_service"
+msgid "Yandex delivery"
+msgstr ""
+
+msgctxt "Languages::yandex_delivery_pickuppoint"
+msgid "Pickup point"
+msgstr ""
+
+msgctxt "Languages::yandex_delivery_todoor"
+msgid "To door"
+msgstr ""
+
+msgctxt "Languages::yandex_delivery_metro"
+msgid "Metro"
+msgstr ""
+
+msgctxt "Languages::yandex_delivery_pay_accepted"
+msgid "Available"
+msgstr ""
+
+msgctxt "Languages::yandex_delivery_cash"
+msgid "cash"
+msgstr ""
+
+msgctxt "Languages::yandex_delivery_credit_card"
+msgid "credit card"
+msgstr ""
+
+msgctxt "Languages::yandex_delivery_deliver_orient_day"
+msgid "deliver orient day"
+msgstr ""
+
+msgctxt "Languages::yandex_delivery_instruction"
+msgid "Instruction"
+msgstr ""
+
+msgctxt "Languages::yandex_delivery_all_day"
+msgid "Day and night"
+msgstr ""
+
+msgctxt "Languages::yandex_delivery_every_day"
+msgid "Daily"
+msgstr ""
+
+msgctxt "Languages::yandex_delivery_weekend"
+msgid "Weekend"
+msgstr ""
+
+msgctxt "Languages::carrier_yandex"
+msgid "Yandex.Delivery"
+msgstr ""
+
+msgctxt "Languages::yandex_delivery_shipping"
+msgid "Delivery type"
+msgstr ""
+
+msgctxt "Languages::yandex_delivery_ship_display_type"
+msgid "Display type"
+msgstr ""
+
+msgctxt "Languages::yandex_delivery_cms"
+msgid "Internal"
+msgstr ""
+
+msgctxt "Languages::yandex_delivery.sort_points_list"
+msgid "Sort points"
+msgstr ""
+
+msgctxt "Languages::yandex_delivery.sort_near"
+msgid "Near"
+msgstr ""
+
+msgctxt "Languages::yandex_delivery.sort_no"
+msgid "Not sorting"
+msgstr ""
+
+msgctxt "Languages::yandex_delivery.sort_abc"
+msgid "ABC"
+msgstr ""
+
+msgctxt "Languages::yandex_delivery.display_count_pickuppoints"
+msgid "Number of displayed pickup points"
+msgstr ""
+
+msgctxt "Languages::yandex_delivery.all_point"
+msgid "Show all pickup points"
+msgstr ""

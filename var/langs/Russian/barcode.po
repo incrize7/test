@@ -1,0 +1,149 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: incrizetest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: incrizetest\n"
+"X-Crowdin-Language: ru\n"
+"X-Crowdin-File: /master/var/langs/en/addons/barcode.po\n"
+"Last-Translator: incrize7 <tall-007@inbox.ru>\n"
+"PO-Revision-Date: 2017-02-27 07:06-0500\n"
+
+msgctxt "Addons::name::barcode"
+msgid "Order barcode"
+msgstr ""
+
+msgctxt "Addons::description::barcode"
+msgid "Makes it possible to configure and attach barcodes to orders"
+msgstr ""
+
+msgctxt "Languages::please_enable_the_add_on_to_see_barcode"
+msgid "Please enable the add-on to see a code example."
+msgstr ""
+
+msgctxt "SettingsSections::barcode::general"
+msgid "General"
+msgstr ""
+
+msgctxt "SettingsOptions::barcode::elm_image"
+msgid "Image"
+msgstr ""
+
+msgctxt "SettingsOptions::barcode::elm_image_info"
+msgid "Example Image"
+msgstr ""
+
+msgctxt "SettingsOptions::barcode::elm_configs"
+msgid "Configs"
+msgstr ""
+
+msgctxt "SettingsOptions::barcode::type"
+msgid "Type"
+msgstr ""
+
+msgctxt "SettingsOptions::barcode::output"
+msgid "Output"
+msgstr ""
+
+msgctxt "SettingsOptions::barcode::text"
+msgid "Text"
+msgstr ""
+
+msgctxt "SettingsOptions::barcode::height"
+msgid "Height,px"
+msgstr ""
+
+msgctxt "SettingsOptions::barcode::width"
+msgid "Width,px"
+msgstr ""
+
+msgctxt "SettingsOptions::barcode::resolution"
+msgid "Resolution"
+msgstr ""
+
+msgctxt "SettingsOptions::barcode::text_font"
+msgid "Text Font"
+msgstr ""
+
+msgctxt "SettingsOptions::barcode::prefix"
+msgid "Barcode prefix"
+msgstr ""
+
+msgctxt "SettingsOptions::barcode::elm_specification"
+msgid "Specification"
+msgstr ""
+
+msgctxt "SettingsOptions::barcode::elm_spec_descr"
+msgid "Spec Description"
+msgstr ""
+
+msgctxt "SettingsVariants::barcode::type::C128A"
+msgid "Code 128-A"
+msgstr ""
+
+msgctxt "SettingsVariants::barcode::type::C128B"
+msgid "Code 128-B"
+msgstr ""
+
+msgctxt "SettingsVariants::barcode::type::C128C"
+msgid "Code 128-C"
+msgstr ""
+
+msgctxt "SettingsVariants::barcode::type::I25"
+msgid "Interleaved 2 of 5"
+msgstr ""
+
+msgctxt "SettingsVariants::barcode::type::C39"
+msgid "Code 39"
+msgstr ""
+
+msgctxt "SettingsVariants::barcode::output::png"
+msgid "Portable Network Graphics (PNG)"
+msgstr ""
+
+msgctxt "SettingsVariants::barcode::output::jpeg"
+msgid "Joint Photographic Experts Group (JPEG)"
+msgstr ""
+
+msgctxt "SettingsVariants::barcode::text::N"
+msgid "Disabled"
+msgstr ""
+
+msgctxt "SettingsVariants::barcode::text::Y"
+msgid "Enabled"
+msgstr ""
+
+msgctxt "SettingsVariants::barcode::resolution::1"
+msgid "1"
+msgstr ""
+
+msgctxt "SettingsVariants::barcode::resolution::2"
+msgid "2"
+msgstr ""
+
+msgctxt "SettingsVariants::barcode::resolution::3"
+msgid "3"
+msgstr ""
+
+msgctxt "SettingsVariants::barcode::text_font::1"
+msgid "1"
+msgstr ""
+
+msgctxt "SettingsVariants::barcode::text_font::2"
+msgid "2"
+msgstr ""
+
+msgctxt "SettingsVariants::barcode::text_font::3"
+msgid "3"
+msgstr ""
+
+msgctxt "SettingsVariants::barcode::text_font::4"
+msgid "4"
+msgstr ""
+
+msgctxt "SettingsVariants::barcode::text_font::5"
+msgid "5"
+msgstr ""
