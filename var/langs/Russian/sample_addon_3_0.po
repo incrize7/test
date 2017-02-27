@@ -1,0 +1,125 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: incrizetest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: incrizetest\n"
+"X-Crowdin-Language: ru\n"
+"X-Crowdin-File: /master/var/langs/en/addons/sample_addon_3_0.po\n"
+"Last-Translator: incrize7 <tall-007@inbox.ru>\n"
+"PO-Revision-Date: 2017-02-27 06:58-0500\n"
+
+msgctxt "Addons::name::sample_addon_3_0"
+msgid "3.0 scheme add-on sample"
+msgstr ""
+
+msgctxt "Addons::description::sample_addon_3_0"
+msgid "Sample add-on description. Do not use the add-on in production mode."
+msgstr ""
+
+msgctxt "Languages::test_xml_3.0_1"
+msgid "First language variable"
+msgstr ""
+
+msgctxt "Languages::test_xml_3.0_2"
+msgid "Second language variable"
+msgstr ""
+
+msgctxt "Languages::sample_addon_handler"
+msgid "Sample add-on handler"
+msgstr ""
+
+msgctxt "SettingsSections::sample_addon_3_0::section1"
+msgid "Generic settings"
+msgstr ""
+
+msgctxt "SettingsSections::sample_addon_3_0::section2"
+msgid "Selects"
+msgstr ""
+
+msgctxt "SettingsSections::sample_addon_3_0::section3"
+msgid "Additional settings"
+msgstr ""
+
+msgctxt "SettingsOptions::sample_addon_3_0::header"
+msgid "Header"
+msgstr ""
+
+msgctxt "SettingsOptions::sample_addon_3_0::input"
+msgid "Input"
+msgstr ""
+
+msgctxt "SettingsOptions::sample_addon_3_0::password"
+msgid "Password input"
+msgstr ""
+
+msgctxt "SettingsOptions::sample_addon_3_0::checkbox"
+msgid "Checkbox"
+msgstr ""
+
+msgctxt "SettingsOptions::sample_addon_3_0::textarea"
+msgid "Textarea"
+msgstr ""
+
+msgctxt "SettingsOptions::sample_addon_3_0::radiogroup"
+msgid "Radio group box"
+msgstr ""
+
+msgctxt "SettingsOptions::sample_addon_3_0::file"
+msgid "File"
+msgstr ""
+
+msgctxt "SettingsOptions::sample_addon_3_0::selectbox"
+msgid "Selectbox"
+msgstr ""
+
+msgctxt "SettingsOptions::sample_addon_3_0::countries_list"
+msgid "Countries list"
+msgstr ""
+
+msgctxt "SettingsOptions::sample_addon_3_0::states_list"
+msgid "States list"
+msgstr ""
+
+msgctxt "SettingsOptions::sample_addon_3_0::multiple_select"
+msgid "Multiple select"
+msgstr ""
+
+msgctxt "SettingsOptions::sample_addon_3_0::multiple_checkboxes"
+msgid "Multiple checkboxes"
+msgstr ""
+
+msgctxt "SettingsOptions::sample_addon_3_0::selectable_box"
+msgid "Selectable box"
+msgstr ""
+
+msgctxt "SettingsOptions::sample_addon_3_0::info"
+msgid "Info Url"
+msgstr ""
+
+msgctxt "SettingsTooltips::sample_addon_3_0::input"
+msgid "Tooltip"
+msgstr ""
+
+msgctxt "SettingsVariants::sample_addon_3_0::radiogroup::radio_1"
+msgid "Radio button 1"
+msgstr ""
+
+msgctxt "SettingsVariants::sample_addon_3_0::radiogroup::radio_2"
+msgid "Radio button 2"
+msgstr ""
+
+msgctxt "SettingsVariants::sample_addon_3_0::multiple_checkboxes::select_box_1"
+msgid "Select box item 1"
+msgstr ""
+
+msgctxt "SettingsVariants::sample_addon_3_0::multiple_checkboxes::select_box_2"
+msgid "Select box item 2"
+msgstr ""
+
+msgctxt "SettingsVariants::sample_addon_3_0::multiple_checkboxes::select_box_3"
+msgid "Select box item 3"
+msgstr ""
