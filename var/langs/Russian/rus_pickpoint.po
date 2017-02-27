@@ -1,0 +1,73 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: incrizetest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: incrizetest\n"
+"X-Crowdin-Language: ru\n"
+"X-Crowdin-File: /master/var/langs/en/addons/rus_pickpoint.po\n"
+"Last-Translator: incrize7 <tall-007@inbox.ru>\n"
+"PO-Revision-Date: 2017-02-27 06:57-0500\n"
+
+msgctxt "Addons::name::rus_pickpoint"
+msgid "Pickpoint"
+msgstr ""
+
+msgctxt "Addons::description::rus_pickpoint"
+msgid "Shiping service Pickpoint"
+msgstr ""
+
+msgctxt "SettingsOptions::rus_pickpoint::general"
+msgid "General settings"
+msgstr ""
+
+msgctxt "SettingsOptions::rus_pickpoint::login"
+msgid "Login"
+msgstr ""
+
+msgctxt "SettingsOptions::rus_pickpoint::password"
+msgid "Password"
+msgstr ""
+
+msgctxt "SettingsOptions::rus_pickpoint::ikn"
+msgid "IKN"
+msgstr ""
+
+msgctxt "SettingsOptions::rus_pickpoint::secure_protocol"
+msgid "Used secure protocol"
+msgstr ""
+
+msgctxt "SettingsOptions::rus_pickpoint::server"
+msgid "Type server"
+msgstr ""
+
+msgctxt "SettingsVariants::rus_pickpoint::server::work"
+msgid "Work"
+msgstr ""
+
+msgctxt "SettingsVariants::rus_pickpoint::server::test"
+msgid "Test"
+msgstr ""
+
+msgctxt "Languages::addons.rus_pickpoint.error_pickpoint_id"
+msgid "Select terminal"
+msgstr ""
+
+msgctxt "Languages::addons.rus_pickpoint.pickpoint_id"
+msgid "Id terminal"
+msgstr ""
+
+msgctxt "Languages::addons.rus_pickpoint.select_terminal"
+msgid "Select terminal"
+msgstr ""
+
+msgctxt "Languages::carrier_pickpoint"
+msgid "Pickpoint"
+msgstr ""
+
+msgctxt "Languages::addons.rus_pickpoint.pickpoint"
+msgid "Pickpoint"
+msgstr ""
